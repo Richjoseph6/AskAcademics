@@ -18,3 +18,41 @@ img {
   text-align: center;
   
 }
+.table {
+  border: none;
+  margin-bottom: 10px;
+}
+
+.School {
+  padding: 20px;
+}
+
+form {
+  padding-left: 10px;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+
+input,
+textarea {
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid black;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+button {
+  border: none;
+  background-color: #d3d3d3;
+  padding: 10px 20px;
+  margin: ;
+}
+
+.footer {
+  text-align: center;
+  background-color: #dbf6e9;
+  padding: 10px 0;
+}
